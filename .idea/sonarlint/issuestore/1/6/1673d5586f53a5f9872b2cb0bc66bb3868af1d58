@@ -1,0 +1,17 @@
+
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(•ÚŒ8ÅÅ´ÊØ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ê‡öÙ8Ä»¨ÊØ,
+lsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(¸¢÷Ôıÿÿÿÿ8¾·Ë„Ù,
+gsquid:S1764"KCorrect one of the identical sub-expressions on both sides of operator "&&"(÷â”ù8Ùéª„Ù,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(“¼™–8¡õŒËØ,
+ssquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹ÏŸùÿÿÿÿ8º‚ÊØ,
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(“¼™–8¡õŒËØ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(«ó¨™8ı®ÄÉØ,
+Esquid:S2140")Use "java.util.Random.nextInt()" instead.(¼¹¹½8÷µšËØ,
+usquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÌöÆê8€ø“ÊØ,
+1squid:S1220""Move this file to a named package.
+msquid:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(•ÚŒ8‰×ŒËØ,
