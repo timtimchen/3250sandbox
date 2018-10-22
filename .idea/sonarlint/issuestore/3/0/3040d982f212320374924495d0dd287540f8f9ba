@@ -1,5 +1,5 @@
 
-ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Éß÷øÿÿÿÿ8é¾˜¨ä,
-1squid:S1220""Move this file to a named package.
 tsquid:S00116"RRename this field "LEDList" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¼ş‘èúÿÿÿÿ8®¯Û¸á,
 gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(î†ÄÕ8é¾˜¨ä,
+1squid:S1220""Move this file to a named package.
+ssquid:S3776"RRefactor this method to reduce its Cognitive Complexity from 18 to the 15 allowed.(Éß÷øÿÿÿÿ8é¾˜¨ä,

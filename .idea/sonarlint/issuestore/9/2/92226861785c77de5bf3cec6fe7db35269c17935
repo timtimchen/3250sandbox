@@ -1,14 +1,14 @@
 
 Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ºèéíØ,
+squid:S106"9Replace this use of System.out or System.err by a logger.(“ñôºüÿÿÿÿ8û­ïíØ,
 T
 squid:S106"9Replace this use of System.out or System.err by a logger.(è ½ï8«ÁçíØ,
-1squid:S1220""Move this file to a named package.
-|squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”ı Äûÿÿÿÿ8ØäìëØ,
-T
-squid:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8«ÁçíØ,
 Jsquid:S2140")Use "java.util.Random.nextInt()" instead.(Øìºêúÿÿÿÿ8çºëíØ,
+1squid:S1220""Move this file to a named package.
 Y
 squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8«ÁçíØ,
 Y
-squid:S106"9Replace this use of System.out or System.err by a logger.(“ñôºüÿÿÿÿ8û­ïíØ,
+squid:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ºèéíØ,
+|squid:S00115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(”ı Äûÿÿÿÿ8ØäìëØ,
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8«ÁçíØ,
